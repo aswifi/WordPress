@@ -1,0 +1,8 @@
+{
+  "require": {
+        "php": ">=8.0.1",
+        "ext-gd": "*",
+        "ext-mbstring": "*",
+        "ext-imagick": "*"
+  }
+}
