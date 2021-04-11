@@ -1,0 +1,7 @@
+{
+  "name": "WordPress-HerokuDeploy",
+  "type": "project",
+  "stack": "heroku-20",
+  "success_url": "/",
+  "addons": []
+}
